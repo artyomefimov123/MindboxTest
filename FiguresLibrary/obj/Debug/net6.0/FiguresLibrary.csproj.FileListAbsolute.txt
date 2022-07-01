@@ -1,0 +1,12 @@
+E:\Test\MindboxTest\FiguresLibrary\bin\Debug\net6.0\FiguresLibrary.deps.json
+E:\Test\MindboxTest\FiguresLibrary\bin\Debug\net6.0\FiguresLibrary.dll
+E:\Test\MindboxTest\FiguresLibrary\bin\Debug\net6.0\FiguresLibrary.pdb
+E:\Test\MindboxTest\FiguresLibrary\obj\Debug\net6.0\FiguresLibrary.csproj.AssemblyReference.cache
+E:\Test\MindboxTest\FiguresLibrary\obj\Debug\net6.0\FiguresLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Test\MindboxTest\FiguresLibrary\obj\Debug\net6.0\FiguresLibrary.AssemblyInfoInputs.cache
+E:\Test\MindboxTest\FiguresLibrary\obj\Debug\net6.0\FiguresLibrary.AssemblyInfo.cs
+E:\Test\MindboxTest\FiguresLibrary\obj\Debug\net6.0\FiguresLibrary.csproj.CoreCompileInputs.cache
+E:\Test\MindboxTest\FiguresLibrary\obj\Debug\net6.0\FiguresLibrary.dll
+E:\Test\MindboxTest\FiguresLibrary\obj\Debug\net6.0\refint\FiguresLibrary.dll
+E:\Test\MindboxTest\FiguresLibrary\obj\Debug\net6.0\FiguresLibrary.pdb
+E:\Test\MindboxTest\FiguresLibrary\obj\Debug\net6.0\ref\FiguresLibrary.dll
